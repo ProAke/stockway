@@ -7,5 +7,5 @@
 
 echo "Welcome to StocyWay Version 0.0.1";
 
-
+//กำหลังพัฒนา
 ?>
